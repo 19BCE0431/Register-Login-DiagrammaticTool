@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+}
+.heading{
+  font-family: 'Red Hat Display', sans-serif;
+  margin-top: 5%;
+}
+.img{
+  padding-right: 1rem;
+}
+div{
+  margin-top: 5%;
+}
+.remaining{
+  background-color: #cc99ff;
+}
+.box-img{
+  margin: 5% 10%;
+  padding-right: 25%;
+}
+.box{
+  text-align: left;
+  margin: 5% 10%;
+  padding-right: 25%;
+}
+.form-label{
+  background:  #99ff99;
+}
+.btn{
+  background-color: #2171cc;
+}
